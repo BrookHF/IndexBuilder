@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="javalib">
+    <CLASSES>
+      <root url="file://D:/CodeBase/javalib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/CodeBase/javalib" recursive="false" />
+  </library>
+</component>
